@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Webpage</title>
+  <title>My Page</title>
 </head>
 <body>
 
-  <h1>How to Make Tea</h1>
-  <p>Follow these steps in order:</p>
+  <h1> My favourite Movies & series </h1>
+
 
   <ol>
     <li>Teach You a Lesson.</li>
